@@ -11,7 +11,7 @@ I'm a web developer, principally working with Typescript and React, but I also e
 
 - 🌎 I'm from México
 - 🧩 Started to code since 2018
-- 🧐 I’m interested about Rust and Web3
+- 🧐 Interested in Rust and Web3
 - 💻 Others languages that I've used: python, go, lua
 - 🎮 Passionate about video games
 - 💬 Ask me anything
