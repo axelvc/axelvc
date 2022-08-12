@@ -3,14 +3,14 @@
   <img src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" width="32" />
 </h2>
 
-I'm a web developer, principally working with Typescript and React, but I also enjoy discovering and working with new technologies.
+I'm a web developer, primarily working with Typescript and React, but I also enjoy discovering and working with new technologies.
 
 ### About me
 
 <img align="right" width="200" src="https://media4.giphy.com/media/tCu9YfvVT0iyimrNKd/giphy.gif?cid=790b7611f60950f1d2ee011360ae51ad754f910b49bd70a6&rid=giphy.gif&ct=s" />
 
 - 🌎 I'm from México
-- 🧩 Started to code since 2018
+- 🧩 Coding since 2018
 - 🧐 Interested in Rust and Web3
 - 💻 Others languages that I've used: python, go, lua
 - 🎮 Passionate about video games
