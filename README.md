@@ -1,5 +1,5 @@
 <h2>
-  Hi, I'm Axel!
+  Hi! I'm Axel
   <img src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" width="32" />
 </h2>
 
