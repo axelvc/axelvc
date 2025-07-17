@@ -21,12 +21,6 @@ I'm a web developer, primarily working with Typescript and React, but I also enj
 <a href="https://linkedin.com/in/axelvc">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/axel__vc">
-  <img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://instagram.com/axel_v.c/">
-  <img alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <a href="mailto:a.axelvc@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/email-242423?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
