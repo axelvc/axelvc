@@ -13,9 +13,9 @@ Take a look around, hope you find something you like!
 <img  width="100" alt="cat" src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" />
 </div>
 
-<small align="center">
+<div align="center">
 </br>
 
-> Don’t worry, I’ve already fed the pug
+###### Don’t worry, I’ve already fed the pug
 
-</small>
+</div>
