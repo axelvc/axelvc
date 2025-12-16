@@ -1,26 +1,21 @@
-<h2>
-  Hi! I'm Axel
-  <img src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" width="32" />
-</h2>
+<div align="center">
+<img width="200" alt="pug" src="https://github.com/user-attachments/assets/bc4344f2-5a27-43cb-8dea-f4d4c09020d9" />
 
-I'm a web developer, primarily working with Typescript and React, but I also enjoy discovering and working with new technologies.
+# ![I'm Axel](https://readme-typing-svg.herokuapp.com?font=Schibsted+Grotesk&weight=800&size=48&letterSpacing=5px&duration=1400&color=FCF8F8&background=0D1118&center=true&vCenter=true&repeat=false&width=240&height=60&lines=I'm+Axel)
 
-### About me
+<div>
 
-<img align="right" width="200" src="https://media4.giphy.com/media/tCu9YfvVT0iyimrNKd/giphy.gif?cid=790b7611f60950f1d2ee011360ae51ad754f910b49bd70a6&rid=giphy.gif&ct=s" />
+<div align="center">
 
-- 🌎 I'm from México
-- 🧩 Coding since 2018
-- 🧐 Interested in Rust and Web3
-- 💻 Others languages that I've used: python, go, lua
-- 🎮 Passionate about video games
-- 💬 Ask me anything
+👋 Hey there!<br>
+Take a look around, hope you find something you like!
 
-### How to reach me
+<img  width="100" alt="cat" src="https://media4.giphy.com/media/8N2wP9LffgeLz3vwcc/giphy.gif?cid=790b7611a9b35b2f6245c30cf9fbb74eaf27d1142bddaa45&rid=giphy.gif&ct=s" />
+</div>
 
-<a href="https://linkedin.com/in/axelvc">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:a.axelvc@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/email-242423?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<small align="center">
+</br>
+
+> Don’t worry, I’ve already fed the pug
+
+</small>
